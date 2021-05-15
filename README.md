@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Gund</h1>
-<h3 align="center">Tech-savvy Software Engineer with a solid educational background and over one year of hands-on development experience.</h3>
+<h3>Tech-savvy Software Engineer with a solid educational background and over one year of hands-on development experience.</h3>
 	
 
 
