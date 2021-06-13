@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **looking for full-time job opportunities as a Software Engineer**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/iamrohitgund?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/iamrohitgund/Projects/blob/main/README.md)
 
 - 💬 Ask me about **Python**
 
