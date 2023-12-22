@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Gund</h1>
-<h3>Tech-savvy Software Engineer with a solid educational background and over one year of hands-on development experience.</h3>
+<h3>Tech-savvy Software Engineer with a solid educational background and over two year of hands-on development experience.</h3>
 	
 
 
@@ -16,8 +16,8 @@
 ### 🛠 &nbsp;Languages and Tools
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
