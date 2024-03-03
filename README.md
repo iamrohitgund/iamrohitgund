@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently **working as a Software Engineer at Amazon**
 
-- 👨‍💻 Most of my projects are available at [github](https://github.com/iamrohitgund/Projects/blob/main/README.md)
-
 - 💬 Ask me about **Python** and **Java**
 
 - 📫 How to reach me **iamrohitgund@gmail.com**
